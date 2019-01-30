@@ -25,5 +25,13 @@ pip install requests  BeautifulSoup
 python3 script.py 
 
 
+# How it Works
+
+It uses GitHub and codeforces API .
+
+It automatically creates a repository in your GitHub account with all your accepted submissions.
+
+Just enter your github username ,password and codeforces handle-name when prompted .
+
 
 
